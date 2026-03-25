@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @T-Sagar-Pradhan
-- 👀 I’m interested in Web development, DeVops, Trading,java
-- 🌱 I’m currently learning Full stack developement 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...tsagar5555@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+<h1 align="center">Sagar Pradhan</h1><br><h3 align="center">AI/ML Engineer • Backend Developer • Building Real Systems</h3><br>I build AI-powered systems and backend applications that solve real-world problems.<br><br>- 🤖 Developed YOLO-based obstacle detection system for real-time road safety<br>- 🧠 Built ML models (90%+ accuracy) for predictive analytics applications<br>- ⚙️ Designed full-stack platforms with RBAC and scalable backend APIs<br>- 🧪 Experience in automated testing, debugging, and system reliability improvement<br>### ⚙️ Core Stack<br><br>- AI/ML: YOLOv8, Scikit-Learn, Pandas, NumPy  <br>- Backend: Flask, Node.js, REST APIs  <br>- Frontend: React.js  <br>- Data: SQL, Data Pipelines, Feature Engineering  <br>- Tools: Git, Selenium, JIRA  <br>### 🔥 Featured Projects<br><br>🚧 AI Traffic Obstacle Detection (YOLOv8)  <br>- Built real-time hazard detection system using computer vision  <br>- Integrated voice alerts for visually impaired users  <br>- Enabled hands-free navigation using speech commands  <br><br>📊 Crypto Prediction Web App  <br>- Built ML models (Random Forest, Linear Regression) with 90%+ accuracy  <br>- Designed data pipelines reducing processing time by 40%  <br>- Deployed REST APIs for real-time predictions  <br><br>🏫 Student Portal (IIT Bhubaneswar)  <br>- Developed full-stack system with Role-Based Access Control (RBAC)  <br>- Improved navigation speed and accessibility  <br>- Streamlined academic data handling  <br><br>### 💼 Experience<br><br>AI/ML Intern – Infosys Springboard  <br>- Worked on AI model implementation and real-world use cases  <br><br>QA & Testing Intern – PRAM Edutech  <br>- Identified 20+ critical bugs through automated testing  <br>- Improved system stability by 15%  <br>- Collaborated with developers to optimize UI/UX performance  <br>### 🏆 Achievements<br><br>- 🥇 5th Position – IIT Bhubaneswar Web Hackathon (2025)  <br>- 🚀 Built AI systems using minimal resources  <br>- 🧠 Strong problem-solving background  <br><br>### 📫 Connect<br><br>- Email: tsagar5555@gmail.com  <br>- LinkedIn: https://www.linkedin.com/in/t-sagar-pradhan-530036300/  <br>- GitHub: (your profile)  <br>
 
-<!---
-T-Sagar-Pradhan/T-Sagar-Pradhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t-sagar-pradhan-530036300/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsagar5555@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=T-Sagar-Pradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=T-Sagar-Pradhan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Sagar-Pradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=T-Sagar-Pradhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
